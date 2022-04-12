@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+InspiredOS
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+InspiredOS is a linux distro forked from Lubuntu geared towards gamers and game devs.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Join our discord here:
+https://discord.gg/ePZ6Tsjc3m
